@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DK004 a.k.a Arpit 
 - 👀 I’m interested in Web Devlopment, Competetive coding.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning AI, ML.
 - 📫 How to reach me: https://in.linkedin.com/in/arpit-alkari-18b037203
 
 <!---
